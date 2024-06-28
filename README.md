@@ -1,5 +1,5 @@
 <p>
-<h2 align = "center"> Akhil B Xavier - winter_x64 </h2>
+<h2 align = "center"> Amal K A - the.corrupted_angel </h2>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+enthusiast+|+Game+Developer;" height="40"/></h3>
 </p>
 
