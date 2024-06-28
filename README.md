@@ -1,6 +1,6 @@
 <p>
-<h2 align = "center"> Amal K A - the.corrupted_angel </h2>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+enthusiast+|+Game+Developer;" height="40"/></h3>
+<h2 align = "center"> Amal K A </h2>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=🛠️ Maker | 💻 Coder | AI & ML Innovator 🤖 | 🛡️Ethical Hacker ;" height="40"/></h3>
 </p>
 
 ---
