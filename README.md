@@ -1,6 +1,6 @@
 <p>
 <h2 align = "center"> Amal K A </h2>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=1000&lines=🛠️+Maker+|+💻+Coder+|+AI-ML+Innovator+🤖+|+🛡️Ethical+Hacker;" height="40"/></h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=550&lines=🛠️+Maker+|+💻+Coder+|+AI-ML+Innovator+🤖+|+🛡️Ethical+Hacker;" height="40"/></h3>
 </p>
 
 ---
